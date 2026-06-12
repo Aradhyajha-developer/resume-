@@ -1,0 +1,203 @@
+{
+
+margin:0;
+
+font-family:Arial;
+
+backgrobodyund:#f4f4f4;
+
+}
+
+header{
+
+background:#0A66C2;
+
+color:white;
+
+text-align:center;
+
+padding:30px;
+
+}
+
+header img{
+
+width:150px;
+
+height:150px;
+
+border-radius:50%;
+
+object-fit:cover;
+
+}
+
+section{
+
+background:white;
+
+margin:20px;
+
+padding:20px;
+
+border-radius:10px;
+
+box-shadow:0 2px 10px rgba(0,0,0,0.1);
+
+}
+.objective h2{
+
+    text-align:center;
+
+}
+
+.objective p{
+
+    text-align:center;
+
+}
+.education h2{
+
+    text-align:center;
+
+}
+
+.education p{
+
+    text-align:center;
+
+}
+.interests h2{
+
+    text-align:center;
+
+}
+
+.interests p{
+
+    text-align:center;
+
+}
+
+.projects h2{
+
+    text-align:center;
+
+}
+
+.projects ul{
+
+    list-style:none;
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:20px;
+
+    flex-wrap:wrap;
+
+    padding:0;
+
+}
+.skills h2{
+
+    text-align:center;
+
+}
+.skills h2{
+
+    text-align:center;
+
+}
+
+.skills ul{
+
+    list-style:none;
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:20px;
+
+    flex-wrap:wrap;
+
+    padding:0;
+
+}
+
+.skills li{
+
+    font-weight:bold;
+
+}
+.contact{
+
+    text-align:center;
+
+}
+
+.buttons{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:15px;
+
+    margin-top:15px;
+
+    flex-wrap:wrap;
+
+}
+
+.buttons a{
+
+    text-decoration:none;
+
+    color:white;
+
+    padding:10px 20px;
+
+    border-radius:8px;
+
+    font-weight:bold;
+
+}
+
+.github{
+
+    background:black;
+
+}
+
+.linkedin{
+
+    background:#0A66C2;
+
+}
+
+footer{
+
+text-align:center;
+
+padding:20px;
+
+background:#222;
+
+color:white;
+
+}
+
+@media(max-width:600px){
+
+header img{
+
+width:120px;
+
+height:120px;
+
+}
+
+
